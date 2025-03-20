@@ -1,2 +1,2 @@
 # spotted-lanternfly-datavis
-These data visualizations illustrate the rapid spread of the invasive spotted lanternfly across North America.
+The spotted lanternfly is an invasive planthopper that recently arrived in North America. This data visualization project contains two plots that illustrate its rapid spread.
